@@ -161,7 +161,7 @@ import {
 } from '@element-plus/utils-new'
 import { ElIcon } from '@element-plus/components/icon'
 
-import type { ComponentPublicInstance, PropType } from 'vue'
+import type { PropType } from 'vue'
 import type { ComponentSize } from '@element-plus/utils/types'
 import type {
   Action,
